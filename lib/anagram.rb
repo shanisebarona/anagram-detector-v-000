@@ -11,14 +11,10 @@ class Anagram
   
   def match(words)
     words.each do |w| w == @word
-    # binding.pry 
     end
   end
   
-  
-  
-  #given a word AND list of anagrams
-  
+
   
   
   
