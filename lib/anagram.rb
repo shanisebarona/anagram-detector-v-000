@@ -19,12 +19,4 @@ class Anagram
     arr
   end
   
-
-  
-  
-  
-  
-  
-  
-  
 end
